@@ -1,2 +1,31 @@
-# PU_CHE597_S2025
-This is the repository for the Data Science in Chemical Engineering course CHE597 at Purdue University for the Spring 2025 semester
+
+# CHE597 – Data Science in Chemical Engineering (Spring 2025)
+
+Welcome to the official repository for **CHE597: Data Science in Chemical Engineering** at Purdue University, Spring 2025.
+
+## About the Course
+CHE597 introduces data science concepts and tools for chemical engineering applications. The course covers Python programming, data analysis, machine learning, optimization, and modern computational workflows, with hands-on lessons and real-world datasets.
+
+**Instructor:** [David E. Bernal Neira](https://github.com/bernalde)  
+Davidson School of Chemical Engineering, Purdue University  
+Founder, [SECQUOIA](https://secquoia.github.io/)
+
+## Jupyter Book
+All lessons and materials are organized as a Jupyter Book, including:
+- 19 interactive Jupyter notebooks (one per lesson)
+- Example datasets and code
+- Direct launch to Google Colab for each notebook
+
+**View the book online:**
+[CHE597 Jupyter Book (GitHub Pages)](https://secquoia.github.io/PU_CHE597_S2025/)
+
+## How to Use
+- Browse lessons and code in the Jupyter Book (see sidebar for topics)
+- Click the **"Open in Colab"** button at the top of any notebook page to run interactively in Google Colab
+- Download notebooks and data for local use
+
+## About SECQUOIA
+[SECQUOIA](https://secquoia.github.io/) is an initiative to advance open, reproducible, and accessible computational science in chemical engineering and related fields. This course and its materials are part of SECQUOIA's mission to empower students and researchers with modern data science skills.
+
+---
+© 2025 David E. Bernal Neira, Purdue University. Built with [Jupyter Book](https://jupyterbook.org/).
