@@ -26,6 +26,13 @@ html:
   extra_navbar: |
     Built with <a href="https://jupyterbook.org/">Jupyter Book</a>.
 
+# Launch buttons (adds an "Open in Colab" button to each notebook page)
+launch_buttons:
+  colab_url: https://colab.research.google.com
+  # You can also enable Binder or Thebe later if desired
+  # binderhub_url: https://mybinder.org
+  # thebe: false
+
 # Sphinx configuration (optional overrides)
 sphinx:
   config:
