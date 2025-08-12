@@ -1,0 +1,32 @@
+################################################################################
+# Jupyter Book configuration for the CHE597 course notebooks
+# Docs: https://jupyterbook.org/en/stable/customize/config.html
+################################################################################
+
+# Book settings
+title: CHE597 – Course Notebooks (S2025)
+author: David E. Bernal Neira · Davidson School of Chemical Engineering, Purdue University
+copyright: "2025"
+
+# Repository info (enables repo buttons)
+repository:
+  url: https://github.com/SECQUOIA/PU_CHE597_S2025
+  path_to_book: .
+  branch: main
+
+# Execution settings: avoid executing notebooks during CI to keep builds fast/stable
+execute:
+  execute_notebooks: "off"  # 'auto' to execute, 'off' to use saved outputs
+
+# HTML options
+html:
+  use_repository_button: true
+  use_issues_button: true
+  use_edit_page_button: false
+  extra_navbar: |
+    Built with <a href="https://jupyterbook.org/">Jupyter Book</a>.
+
+# Sphinx configuration (optional overrides)
+sphinx:
+  config:
+    html_show_copyright: false
