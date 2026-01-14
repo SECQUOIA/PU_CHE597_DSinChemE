@@ -37,3 +37,6 @@ launch_buttons:
 sphinx:
   config:
     html_show_copyright: false
+    # Suppress warnings for internal notebook cross-references
+    suppress_warnings:
+      - "myst.xref_missing"
