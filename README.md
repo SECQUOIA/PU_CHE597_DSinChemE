@@ -1,5 +1,5 @@
 
-# CHE597 – Data Science in Chemical Engineering (Spring 2025)
+# CHE597 – Data Science in Chemical Engineering
 
 Welcome to the official repository for **CHE597: Data Science in Chemical Engineering** at Purdue University, Spring 2025.
 
@@ -8,7 +8,7 @@ CHE597 introduces data science concepts and tools for chemical engineering appli
 
 **Instructor:** [David E. Bernal Neira](https://github.com/bernalde)  
 Davidson School of Chemical Engineering, Purdue University  
-Founder, [SECQUOIA](https://secquoia.github.io/)
+Principal Investigator, [SECQUOIA](https://secquoia.github.io/)
 
 ## Jupyter Book
 All lessons and materials are organized as a Jupyter Book, including:
