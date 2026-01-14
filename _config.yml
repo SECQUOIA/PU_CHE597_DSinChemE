@@ -4,13 +4,13 @@
 ################################################################################
 
 # Book settings
-title: CHE597 – Course Notebooks (S2025)
+title: Purdue Data Science in Chemical Engineering – Course Notebooks
 author: David E. Bernal Neira · Davidson School of Chemical Engineering, Purdue University
-copyright: "2025"
+copyright: "2026"
 
 # Repository info (enables repo buttons)
 repository:
-  url: https://github.com/SECQUOIA/PU_CHE597_S2025
+  url: https://github.com/SECQUOIA/PU_CHE597_DSinChemE
   path_to_book: .
   branch: main
 

@@ -1,7 +1,7 @@
 
 # CHE597 – Data Science in Chemical Engineering
 
-Welcome to the official repository for **CHE597: Data Science in Chemical Engineering** at Purdue University, Spring 2025.
+Welcome to the official repository for **CHE597: Data Science in Chemical Engineering** at Purdue University.
 
 ## About the Course
 CHE597 introduces data science concepts and tools for chemical engineering applications. The course covers Python programming, data analysis, machine learning, optimization, and modern computational workflows, with hands-on lessons and real-world datasets.
@@ -17,7 +17,7 @@ All lessons and materials are organized as a Jupyter Book, including:
 - Direct launch to Google Colab for each notebook
 
 **View the book online:**
-[CHE597 Jupyter Book (GitHub Pages)](https://secquoia.github.io/PU_CHE597_S2025/)
+[CHE597 Jupyter Book (GitHub Pages)](https://secquoia.github.io/PU_CHE597_DSinChemE/)
 
 ## How to Use
 - Browse lessons and code in the Jupyter Book (see sidebar for topics)
