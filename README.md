@@ -28,4 +28,4 @@ All lessons and materials are organized as a Jupyter Book, including:
 [SECQUOIA](https://secquoia.github.io/) is an initiative to advance open, reproducible, and accessible computational science in chemical engineering and related fields. This course and its materials are part of SECQUOIA's mission to empower students and researchers with modern data science skills.
 
 ---
-© 2025 David E. Bernal Neira, Purdue University. Built with [Jupyter Book](https://jupyterbook.org/).
+© 2026 David E. Bernal Neira, Purdue University. Built with [Jupyter Book](https://jupyterbook.org/).
